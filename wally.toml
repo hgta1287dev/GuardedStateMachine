@@ -1,0 +1,11 @@
+[package]
+name = "hgta1287dev/guarded-state-machine"
+version = "1.0.0"
+authors = ["hoamjg"]
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@4"
+Signal = "sleitnick/signal@2"
