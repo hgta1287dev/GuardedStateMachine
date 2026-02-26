@@ -8,8 +8,8 @@ version = "4.0.0"
 dependencies = []
 
 [[package]]
-name = "hgta1287dev/ordered-set"
-version = "1.2.0"
+name = "hgta1287dev/guarded-state-machine"
+version = "1.0.2"
 dependencies = [["Promise", "evaera/promise@4.0.0"], ["Signal", "sleitnick/signal@2.0.3"]]
 
 [[package]]
